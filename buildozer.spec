@@ -88,7 +88,7 @@ fullscreen = 1
 android.permissions = INTERNET, VIBRATE
 
 # (int) Target Android API, should be as high as possible.
-android.api = 30
+android.api = 31
 
 # (int) Minimum API your APK will support.
 android.minapi = 21
